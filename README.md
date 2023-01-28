@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="60" height="60" />
  </div>
 
-## :fire: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jengerred&theme=dark)](https://git.io/streak-stats)
 
