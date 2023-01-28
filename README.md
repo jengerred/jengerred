@@ -1,8 +1,8 @@
 # < Hello World 👋 />
 ## My name is Jennifer. I am at the beginning of my learning journey with full-stack development. I really love putting to use what I've learned so far. I still have a long way to go but I am very eager to learn and it is so much fun seeing how everything comes together. I can't wait to continue to learn and grow as a developer!
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
+### :hammer_and_wrench: Languages and Tools :
+## <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="60" height="60"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
