@@ -20,8 +20,8 @@
       <img src="https://raw.githubusercontent.com/strapi/brand/master/logo/logo-strapi-dark.svg" 
          title="Strapi" 
          alt="Headless CMS" 
-         width="130" 
-         height="40"/>&nbsp;
+         width="60" 
+         height="60"/>&nbsp;
   <img src="https://www.svgrepo.com/download/331592/stripe-v2.svg" title="Stripe" alt="Payments" width="60" height="60"/>&nbsp;
 </div>
 
