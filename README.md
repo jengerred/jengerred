@@ -15,7 +15,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jengerred)](https://git.io/streak-stats)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jengerred&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
