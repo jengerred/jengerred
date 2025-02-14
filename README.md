@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.iconduck.com/icons/94945/strapi.svg" title="Strapi" alt="Headless CMS" width="60" height="60"/>&nbsp;
+  <img src="https://www.svgrepo.com/download/331592/stripe-v2.svg" title="Stripe" alt="Payments" width="60" height="60"/>&nbsp;
 </div>
 
 
