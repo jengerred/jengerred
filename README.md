@@ -21,8 +21,7 @@
          title="Strapi" 
          alt="Headless CMS" 
          width="130" 
-         height="40"/>
-  </img>&nbsp;
+         height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/download/331592/stripe-v2.svg" title="Stripe" alt="Payments" width="60" height="60"/>&nbsp;
 </div>
 
