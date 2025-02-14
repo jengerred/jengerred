@@ -17,11 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="60" height="60"/>&nbsp;
-     <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiMyQTRDRkYiLz48cGF0aCBkPSJNMzUuNDM3NSAyNC4zMTI1QzM0LjA2MjUgMjIuMTI1IDMxLjA2MjUgMjAuNSAyNy43NSAyMC41QzI0LjQzNzUgMjAuNSAyMS40Mzc1IDIyLjEyNSAyMC4wNjI1IDI0LjMxMjVDMTguNjI1IDI2LjYyNSAxNy41IDMwLjE4NzUgMTcuNSAzMy43NUMxNy41IDM3LjMxMjUgMTguNjI1IDQwLjg3NSAyMC4wNjI1IDQzLjE4NzVDMjEuNDM3NSA0NS4zNzUgMjQuNDM3NSA0NyAyNy43NSA0N0MzMS4wNjI1IDQ3IDM0LjA2MjUgNDUuMzc1IDM1LjQzNzUgNDMuMTg3NUgzNS40Mzc1QzM2Ljg3NSA0MC44NzUgMzggMzcuMzEyNSAzOCAzMy43NUMzOCAzMC4xODc1IDM2Ljg3NSAyNi42MjUgMzUuNDM3NSAyNC4zMTI1Wk0yNy43NSA0Mi4yNUMyNS4zNzUgNDIuMjUgMjMuNSAzOS44NzUgMjMuNSAzNy4yNUMyMy41IDM0LjYyNSAyNS4zNzUgMzIuMjUgMjcuNzUgMzIuMjVDMzAuMTI1IDMyLjI1IDMyIDM0LjYyNSAzMiAzNy4yNUMyOS42MjUgMzcuMjUgMjcuNzUgMzkuNjI1IDI3Ljc1IDQyLjI1Wk0zMC4xMjUgMzcuMjVDMzAuMTI1IDM1LjMxMjUgMjkuMTg3NSAzMy41IDI3Ljc1IDMzLjVDMjYuMzEyNSAzMy41IDI1LjM3NSAzNS4zMTI1IDI1LjM3NSAzNy4yNUMyNS4zNzUgMzkuMTg3NSAyNi4zMTI1IDQwLjg3NSAyNy43NSA0MC44NzVDMjkuMTg3NSA0MC44NzUgMzAuMTI1IDM5LjE4NzUgMzAuMTI1IDM3LjI1WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" 
-       title="Strapi" 
-       alt="Headless CMS" 
-       width="60" 
-       height="60"/>&nbsp;
+
 
   <img src="https://www.svgrepo.com/download/331592/stripe-v2.svg" title="Stripe" alt="Payments" width="60" height="60"/>&nbsp;
 </div>
